@@ -1,0 +1,15 @@
+apiVersion: v2
+name: queue-worker
+description: Dedicated queue-worker for OpenFaaS using JetStream
+type: application
+version: 0.1.9
+keywords:
+- openfaas
+- jetstream
+- queue
+- async
+maintainers:
+- name: alexellis
+  email: alex@openfaas.com
+- name: welteki
+  email: han@openfaas.com
